@@ -7,32 +7,11 @@
     "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\nMachine Learning\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\nMachine Learning\n\nClustering\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\nData Visualization\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
+    "objectID": "cv.html",
+    "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Doctor of Philosophy (PhD)\nThesis: Decision making in multidrug-resistant organisms (MDRO) in ICU\nMonash University | Melbourne, Australia | February 2025 - January 2026\nMonash University | Subang Jaya, Malaysia | August 2023 - February 2027\nAwarded the Global Excellence and Mobility Scholarship (GEMS)\nSupervisors: Ewilly Liew, Michael Lydeamore, Di Cook, Poh Yeh Han, Manjeevan Seera\nBachelor of Business and Commerce (Honours)\nThesis: Analyzing the buffer effect of creativity on exhaustion towards work outcomes.\nMonash University | Subang Jaya, Malaysia | July 2020 - June 2021\nAwarded the Graduate Research Pathway Scholarship (100%)\nReceived the Best Student Award\nSupervisors: Ewilly Liew, Patricia Lau\nBachelor of Business and Commerce\nMajor in Econometrics and Business Statistics\nMonash University | Subang Jaya, Malaysia | February 2017 - December 2019\nAwarded the Malaysia Public Service Department Scholarship"
-  },
-  {
-    "objectID": "cv.html#work-experience",
-    "href": "cv.html#work-experience",
-    "title": "CV",
-    "section": "Work Experience",
-    "text": "Work Experience\nResearch Analyst\nInstitute for Global Strategy and Competitiveness | Sunway University |\nAugust 2021 - September 2023\nResearch Assistant\nMonash University | April 2020 - December 2021"
-  },
-  {
-    "objectID": "cv.html#teaching",
-    "href": "cv.html#teaching",
-    "title": "CV",
-    "section": "Teaching",
-    "text": "Teaching\nTutor\n[ETW3483] Applied Analytics | S2Y2024\n[ETM5950] Data Analytics for Business | S1Y2024\nWorkshops\nData Analysis with R | 2021 - 2022\nIntroduction to Time Series Forecasting | 2021 - 2022"
-  },
-  {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "CV",
-    "section": "Publications",
-    "text": "Publications\nReport\nContributed as a member of a larger team.\nWater as Economic Sector | Water Sector Transformation 2040 | Academy of Sciences Malaysia | 2022\nThe Nexus of Biodiversity Conservation and Sustainable Socioeconomic Development in Southeast Asia | Academy of Sciences Malaysia | 2022\nPosition Paper on Blue Economy: Unlocking the Value of the Oceans | 2022"
+    "text": "Education\nDoctor of Philosophy (PhD)\nThesis: Decision making in multidrug-resistant organisms (MDRO) in ICU\nMonash University | Melbourne, Australia | February 2025 - January 2026\nMonash University | Subang Jaya, Malaysia | August 2023 - February 2027\nAwarded the Global Excellence and Mobility Scholarship (GEMS)\nSupervisors: Ewilly Liew, Michael Lydeamore, Di Cook, Poh Yeh Han, Manjeevan Singh Seera\nBachelor of Business and Commerce (Honours)\nThesis: Analyzing the buffer effect of creativity on exhaustion towards work outcomes.\nMonash University | Subang Jaya, Malaysia | July 2020 - June 2021\nAwarded the Graduate Research Pathway Scholarship (100%)\nReceived the Best Student Award\nSupervisors: Ewilly Liew, Patricia Lau\nBachelor of Business and Commerce\nMajor in Econometrics and Business Statistics\nMonash University | Subang Jaya, Malaysia | February 2017 - December 2019\nAwarded the Malaysia Public Service Department Scholarship\n\n\n\nWork experience\nResearch Analyst\nInstitute for Global Strategy and Competitiveness | Sunway University |\nAugust 2021 - September 2023\nResearch Assistant\nMonash University | April 2020 - December 2021\n\n\n\nTeaching\nTutor\n[ETW3483] Applied Analytics | S2Y2024\n[ETM5950] Data Analytics for Business | S1Y2024\nWorkshops\nData Analysis with R | 2021 - 2022\nIntroduction to Time Series Forecasting | 2021 - 2022\n\n\n\nPublications\nReport\nContributed as a member of a larger team.\nWater as Economic Sector | Water Sector Transformation 2040 | Academy of Sciences Malaysia | 2022\nThe Nexus of Biodiversity Conservation and Sustainable Socioeconomic Development in Southeast Asia | Academy of Sciences Malaysia | 2022\nPosition Paper on Blue Economy: Unlocking the Value of the Oceans | 2022"
   },
   {
     "objectID": "blog/second-post/index.html",
@@ -68,12 +47,5 @@
     "title": "Leong Zhuan Kee, Vis",
     "section": "",
     "text": "I’m a PhD student in the Department of Econometrics and Business Statistics at Monash University. My research looks at multidrug-resistant organisms, sitting at the intersection of data analytics and health research, with a focus on problems in the ICU.\nWhat drew me to this area is the reminder that behind every data point is a real person—someone who was seriously unwell. That perspective keeps me grounded and gives purpose to the work I do. I might not be at the bedside, but I hope that through data, I can still make a difference.\nI’m especially interested in healthcare analytics, population health, and statistical and mathematical modeling—and I’m hoping to grow further in these areas. On the side, I’ve also been working on tools to make data cleaning more efficient, especially for messy datasets full of errors.\nOther human interests: 🚶‍♂️🎵🎤🏔️🎮🏖️📺"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Education\nDoctor of Philosophy (PhD)\nThesis: Decision making in multidrug-resistant organisms (MDRO) in ICU\nMonash University | Melbourne, Australia | February 2025 - January 2026\nMonash University | Subang Jaya, Malaysia | August 2023 - February 2027\nAwarded the Global Excellence and Mobility Scholarship (GEMS)\nSupervisors: Ewilly Liew, Michael Lydeamore, Di Cook, Poh Yeh Han, Manjeevan Seera\nBachelor of Business and Commerce (Honours)\nThesis: Analyzing the buffer effect of creativity on exhaustion towards work outcomes.\nMonash University | Subang Jaya, Malaysia | July 2020 - June 2021\nAwarded the Graduate Research Pathway Scholarship (100%)\nReceived the Best Student Award\nSupervisors: Ewilly Liew, Patricia Lau\nBachelor of Business and Commerce\nMajor in Econometrics and Business Statistics\nMonash University | Subang Jaya, Malaysia | February 2017 - December 2019\nAwarded the Malaysia Public Service Department Scholarship\n\n\nWork Experience\nResearch Analyst\nInstitute for Global Strategy and Competitiveness | Sunway University |\nAugust 2021 - September 2023\nResearch Assistant\nMonash University | April 2020 - December 2021\n\n\nTeaching\nTutor\n[ETW3483] Applied Analytics | S2Y2024\n[ETM5950] Data Analytics for Business | S1Y2024\nWorkshops\nData Analysis with R | 2021 - 2022\nIntroduction to Time Series Forecasting | 2021 - 2022\n\n\nPublications\nReport\nContributed as a member of a larger team.\nWater as Economic Sector | Water Sector Transformation 2040 | Academy of Sciences Malaysia | 2022\nThe Nexus of Biodiversity Conservation and Sustainable Socioeconomic Development in Southeast Asia | Academy of Sciences Malaysia | 2022\nPosition Paper on Blue Economy: Unlocking the Value of the Oceans | 2022"
   }
 ]

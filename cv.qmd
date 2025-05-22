@@ -20,6 +20,7 @@ Awarded the [Global Excellence and Mobility Scholarship (GEMS)](https://www.mona
 
 Supervisors: Ewilly Liew, [Michael Lydeamore](https://www.michaellydeamore.com/), [Di Cook](https://www.dicook.org/), Poh Yeh Han, Manjeevan Singh Seera
 
+
 **Bachelor of Business and Commerce (Honours)**
 
 Thesis: Analyzing the buffer effect of creativity on exhaustion towards work outcomes.
@@ -32,6 +33,7 @@ Received the Best Student Award
 
 Supervisors: Ewilly Liew, Patricia Lau
 
+
 **Bachelor of Business and Commerce**
 
 Major in Econometrics and Business Statistics
@@ -40,6 +42,7 @@ Monash University \| Subang Jaya, Malaysia \| February 2017 - December 2019
 
 Awarded the Malaysia Public Service Department Scholarship
 
+________________________________________________________________________
 # Work experience
 
 **Research Analyst**
@@ -48,10 +51,12 @@ Institute for Global Strategy and Competitiveness \| Sunway University \|
 
 August 2021 - September 2023
 
+
 **Research Assistant**
 
 Monash University \| April 2020 - December 2021
 
+_____________________________________________________________________________
 # Teaching
 
 **Tutor**
@@ -60,12 +65,14 @@ Monash University \| April 2020 - December 2021
 
 \[ETM5950\] Data Analytics for Business \| S1Y2024
 
+
 **Workshops**
 
 Data Analysis with R \| 2021 - 2022
 
 Introduction to Time Series Forecasting \| 2021 - 2022
 
+__________________________________________________________________________
 # Publications
 
 **Report**

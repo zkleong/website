@@ -112,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">Education</a></li>
-  <li><a href="#work-experience" id="toc-work-experience" class="nav-link" data-scroll-target="#work-experience">Work Experience</a></li>
+  <li><a href="#work-experience" id="toc-work-experience" class="nav-link" data-scroll-target="#work-experience">Work experience</a></li>
   <li><a href="#teaching" id="toc-teaching" class="nav-link" data-scroll-target="#teaching">Teaching</a></li>
   <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a></li>
   </ul>
@@ -147,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Monash University | Melbourne, Australia | February 2025 - January 2026</p>
 <p>Monash University | Subang Jaya, Malaysia | August 2023 - February 2027</p>
 <p>Awarded the <a href="https://www.monash.edu.my/research/support-and-scholarships/gems-scholarship">Global Excellence and Mobility Scholarship (GEMS)</a></p>
-<p>Supervisors: Ewilly Liew, <a href="https://www.michaellydeamore.com/">Michael Lydeamore</a>, <a href="https://www.dicook.org/">Di Cook</a>, Poh Yeh Han, Manjeevan Seera</p>
+<p>Supervisors: Ewilly Liew, <a href="https://www.michaellydeamore.com/">Michael Lydeamore</a>, <a href="https://www.dicook.org/">Di Cook</a>, Poh Yeh Han, Manjeevan Singh Seera</p>
 <p><strong>Bachelor of Business and Commerce (Honours)</strong></p>
 <p>Thesis: Analyzing the buffer effect of creativity on exhaustion towards work outcomes.</p>
 <p>Monash University | Subang Jaya, Malaysia | July 2020 - June 2021</p>
@@ -158,14 +158,16 @@ ul.task-list li input[type="checkbox"] {
 <p>Major in Econometrics and Business Statistics</p>
 <p>Monash University | Subang Jaya, Malaysia | February 2017 - December 2019</p>
 <p>Awarded the Malaysia Public Service Department Scholarship</p>
+<hr>
 </section>
 <section id="work-experience" class="level1">
-<h1>Work Experience</h1>
+<h1>Work experience</h1>
 <p><strong>Research Analyst</strong></p>
 <p>Institute for Global Strategy and Competitiveness | Sunway University |</p>
 <p>August 2021 - September 2023</p>
 <p><strong>Research Assistant</strong></p>
 <p>Monash University | April 2020 - December 2021</p>
+<hr>
 </section>
 <section id="teaching" class="level1">
 <h1>Teaching</h1>
@@ -175,6 +177,7 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Workshops</strong></p>
 <p>Data Analysis with R | 2021 - 2022</p>
 <p>Introduction to Time Series Forecasting | 2021 - 2022</p>
+<hr>
 </section>
 <section id="publications" class="level1">
 <h1>Publications</h1>
@@ -260,7 +263,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/zkleong\.github\.io\/website\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

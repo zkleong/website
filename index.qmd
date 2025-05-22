@@ -14,10 +14,12 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://www.linkedin.com/in/zkleong/
 ---
 
-I’m a PhD student in the Department of Econometrics and Business Statistics at Monash University. My research looks at multidrug-resistant organisms, sitting at the intersection of data analytics and health research, with a focus on problems in the ICU.
+I’m a PhD student in the Department of Econometrics and Business Statistics at Monash University. My research looks at multidrug-resistant organisms, using data to explore issues related to intensive care and hospital settings.
 
 What drew me to this area is the reminder that behind every data point is a real person—someone who was seriously unwell. That perspective keeps me grounded and gives purpose to the work I do. I might not be at the bedside, but I hope that through data, I can still make a difference.
 
 I'm especially interested in healthcare analytics, population health, and statistical and mathematical modeling—and I’m hoping to grow further in these areas. On the side, I’ve also been working on tools to make data cleaning more efficient, especially for messy datasets full of errors.
 
 Other human interests: 🚶‍♂️🎵🎤🏔️🎮🏖️📺
+
+Email: zhuan.leong@monash.edu
