@@ -4,13 +4,13 @@
 
 **Doctor of Philosophy (PhD)**
 
-Monash University \| Melbourne, Australia \| 
+Thesis: Decision making in multidrug-resistant organisms (MDRO) in ICU 
 
-February 2025 - January 2026
+Monash University \| Melbourne, Australia \| February 2025 - January 2026
 
-Monash University \| Subang Jaya, Malaysia \| 
+Monash University \| Subang Jaya, Malaysia \| August 2023 - February 2027
 
-August 2023 - February 2027
+Awarded the [Global Excellence and Mobility Scholarship (GEMS)](https://www.monash.edu.my/research/support-and-scholarships/gems-scholarship)
 
 Supervisors: Ewilly Liew, Michael Lydeamore, Di Cook, Poh Yeh Han, Manjeevan Seera
 
@@ -18,18 +18,19 @@ Supervisors: Ewilly Liew, Michael Lydeamore, Di Cook, Poh Yeh Han, Manjeevan See
 
 Thesis: Analyzing the buffer effect of creativity on exhaustion towards work outcomes.
 
-Monash University \| Subang Jaya, Malaysia \| 
+Monash University \| Subang Jaya, Malaysia \| July 2020 - June 2021
 
-July 2020 - June 2021
+Awarded the Graduate Research Pathway Scholarship (100%)
+
+Received the Best Student Award
 
 Supervisors: Ewilly Liew, Patricia Lau
 
 **Bachelor of Business and Commerce | Major in Econometrics and Business Statistics**
 
-Monash University \| Subang Jaya, Malaysia \| 
+Monash University \| Subang Jaya, Malaysia \| February 2017 - December 2019
 
-February 2017 - December 2019
-
+Awarded the Malaysia Public Service Department Scholarship 
 
 ## Work Experience
 
@@ -41,6 +42,24 @@ August 2021 - September 2023
 
 **Research Assistant**
 
-Monash University \| 
+Monash University \| April 2020 - December 2021
 
-April 2020 - December 2021
+## Teaching
+
+**Tutor**
+
+[ETW3483] Applied Analytics \| S2Y2024
+
+[ETM5950] Data Analytics for Business \| S1Y2024
+
+**Workshops**
+
+Introduction to Data Analysis with R \| 2021 - 2022
+
+Introduction to Time Series Forecasting \| 2021 - 2022
+
+
+
+
+
+
