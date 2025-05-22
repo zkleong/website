@@ -1,11 +1,19 @@
 ---
-title: "website"
+title: "Leong Zhuan Kee, Vis"
+subtitle: "PhD Candidate"
+image: images/profile.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/zkleong
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/zkleong/
 ---
 
-This is a Quarto website.
+A little bit about me and my life.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+
