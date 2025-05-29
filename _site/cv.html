@@ -96,6 +96,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./cv.html" aria-current="page"> 
 <span class="menu-text">CV</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./blog/index.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -221,7 +225,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="other-awards" class="level2">
 <h2 class="anchored" data-anchor-id="other-awards">Other Awards</h2>
-<p><strong>National Chamption</strong> <br> <em>ASEAN Data Science Explorer 2019</em> <span class="cvdate">2019</span></p>
+<p><strong>National Chamption</strong> <br> <em>ASEAN Data Science Explorer</em> <span class="cvdate">2019</span></p>
 <ul>
 <li>Built and presented a data-driven storyboard on SAP Analytics Cloud to promote food sustainability in the ASEAN region.</li>
 <li>Represented Malaysia to present the solution in regional finals in Bangkok.</li>
@@ -309,7 +313,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/zkleong\.github\.io\/website\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

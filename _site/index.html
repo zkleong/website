@@ -70,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
 
 <meta property="og:title" content="Leong Zhuan Kee, Vis">
 <meta property="og:description" content="PhD Candidate">
-<meta property="og:image" content="images/profile.jpg">
+<meta property="og:image" content="https://zkleong.github.io/website/images/profile.jpg">
 <meta property="og:site_name" content="Leong Zhuan Kee, Vis">
 </head>
 
@@ -94,6 +94,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./cv.html"> 
 <span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./blog/index.html"> 
+<span class="menu-text">Blog</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -133,8 +137,8 @@ ul.task-list li input[type="checkbox"] {
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
 <p>I’m a PhD student in the Department of Econometrics and Business Statistics at Monash University. My research looks at multidrug-resistant organisms, using data to explore issues related to intensive care and hospital settings.</p>
-<p>What drew me to this area is the reminder that behind every data point is a real person—someone who was seriously unwell. That perspective keeps me grounded and gives purpose to the work I do. I might not be at the bedside, but I hope that through data, I can still make a difference.</p>
-<p>I’m especially interested in healthcare analytics, population health, and statistical and mathematical modeling—and I’m hoping to grow further in these areas. On the side, I’ve also been working on tools to make data cleaning more efficient, especially for messy datasets with errors.</p>
+<p>What drew me to this area is the reminder that behind every data point is a real person—someone who was seriously unwell. That perspective keeps me grounded and gives purpose to the work I do.</p>
+<p>I’m especially interested in healthcare analytics, population health, and statistical and mathematical modeling—and I’m hoping to grow further in these areas. On the side, I’ve also been working on tools to make data cleaning more efficient, especially for messy datasets with entry errors.</p>
 <p>Other human interests: 🚶‍♂️🎵🎤🏔️🎮🏖️📺</p>
 <p>Email: zhuan.leong@monash.edu</p>
 
@@ -207,7 +211,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/zkleong\.github\.io\/website\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

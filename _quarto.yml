@@ -9,6 +9,8 @@ website:
     left:
       - href: cv.qmd
         text: CV
+      - href: blog/index.qmd
+        text: Blog
     
       
 format:
