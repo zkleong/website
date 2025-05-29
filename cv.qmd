@@ -1,86 +1,123 @@
 ---
-title: CV
+title: "Curriculum Vitae"
 format:
-  html: 
+  html:
     toc: true
-
+  pdf:
+    author: Leong Zhuan Kee, Vis
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
 ---
 
-# Education
+::: {.print-only .contact-block}
+zhuan.leong@monash.edu | Kuala Lumpur, Malaysia
+:::
 
-**Doctor of Philosophy (PhD)**
+## Education
 
-Thesis: Decision making in multidrug-resistant organisms (MDRO) in ICU
+**Doctor of Philosophy -- Econometrics and Business Statistics** <br> ***Monash University*** [*August 2023 --- Present*]{.cvdate}
 
-Monash University \| Melbourne, Australia \| February 2025 - January 2026
-
-Monash University \| Subang Jaya, Malaysia \| August 2023 - February 2027
-
-Awarded the [Global Excellence and Mobility Scholarship (GEMS)](https://www.monash.edu.my/research/support-and-scholarships/gems-scholarship)
+-   Thesis: Data-driven decision making in multidrug-resistant organisms (MDRO) in ICU
+-   Global Excellence and Mobility Scholarship
+-   Expected submission date: February 2027
 
 Supervisors: Ewilly Liew, [Michael Lydeamore](https://www.michaellydeamore.com/), [Di Cook](https://www.dicook.org/), Poh Yeh Han, Manjeevan Singh Seera
 
+**Bachelor of Business and Commerce (Honours)** <br> ***Monash University*** [*July 2020 --- June 2021*]{.cvdate}
 
-**Bachelor of Business and Commerce (Honours)**
-
-Thesis: Analyzing the buffer effect of creativity on exhaustion towards work outcomes.
-
-Monash University \| Subang Jaya, Malaysia \| July 2020 - June 2021
-
-Awarded the Graduate Research Pathway Scholarship (100%)
-
-Received the Best Student Award
+-   Thesis: Analyzing the buffer effect of creativity on exhaustion towards work outcomes.
+-   Awarded Graduate Research Pathway Scholarship (100%)
+-   Received the Best Student Award
 
 Supervisors: Ewilly Liew, Patricia Lau
 
+**Bachelor of Business and Commerce | Econometrics and Business Statistics** <br> ***Monash University*** [*February 2017 --- December 2019*]{.cvdate}
 
-**Bachelor of Business and Commerce**
-
-Major in Econometrics and Business Statistics
-
-Monash University \| Subang Jaya, Malaysia \| February 2017 - December 2019
-
-Awarded the Malaysia Public Service Department Scholarship
-
-________________________________________________________________________
-# Work experience
-
-**Research Analyst**
-
-Institute for Global Strategy and Competitiveness \| Sunway University \|
-
-August 2021 - September 2023
+- Awarded the Malaysia Public Service Department Scholarship
 
 
-**Research Assistant**
+## Work experience
 
-Monash University \| April 2020 - December 2021
+**Research Analyst** <br>***Institute for Global Strategy and Competitiveness | Sunway University*** [August 2021 --- September 2023]{.cvdate}
 
-_____________________________________________________________________________
-# Teaching
+- Conducted quantitative data analysis to support national policy development, including forecasting and trend analysis on key economic and strategic indicators.
+- Led knowledge-sharing sessions and conducted workshops for internal teams and external stakeholders, focusing on practical applications of data analytics tools and methods.
 
-**Tutor**
+**Research Asisstant** <br> ***School of Business | Monash University Malaysia*** [April 2020 - December 2021]{.cvdate}
 
-\[ETW3483\] Applied Analytics \| S2Y2024
+- Supported the design and deployment of online survey instruments using Qualtrics, including testing, distribution, and management of respondent incentives.
+- Assisted in literature reviews, data collection, and database preparation for ongoing research projects.
+- Performed preliminary quantitative analysis to support academic publications and research outputs.
 
-\[ETM5950\] Data Analytics for Business \| S1Y2024
+**Analytics and Strategy Intern** <br> ***E-Commerce Division | Maxis Berhad*** [December 2018 - February 2019]
+
+- Developed interactive dashboards using Google Data Studio to visualize key performance metrics for eCommerce clients.
+- Supported monthly reporting and contributed to client presentations by providing data-driven insights and performance trends.
+- Analyzed the impact of time-related factors (e.g., time of day, day of week) on customer shopping behavior to inform strategic recommendations.
+- Conducted competitor analysis to benchmark performance and identify growth opportunities for clients.
+
+
+## Teaching
+
+**Tutor** <br> *Monash University, Malaysia*
+
+\[ETW3483\] Applied Analytics [S2Y2024]{.cvdate}
+
+\[ETM5950\] Data Analytics for Business [S1Y2024]{.cvdate}
 
 
 **Workshops**
 
-Data Analysis with R \| 2021 - 2022
+Data Analysis with R [2021 - 2022]{.cvdate}
 
-Introduction to Time Series Forecasting \| 2021 - 2022
+Introduction to Time Series Forecasting [2021 - 2022]{.cvdate}
 
-__________________________________________________________________________
-# Publications
+
+## Publications
 
 **Report**
 
 Contributed as a member of a larger team.
 
-[Water as Economic Sector](https://wst2040.my/wp-content/uploads/2022/06/WST2040-VOLUME-IX_WES.pdf) \| Water Sector Transformation 2040 \| Academy of Sciences Malaysia \| 2022
+[Water as Economic Sector](https://wst2040.my/wp-content/uploads/2022/06/WST2040-VOLUME-IX_WES.pdf) \| Water Sector Transformation 2040 <br> *Academy of Sciences Malaysia* [2022]{.cvdate}
 
-[The Nexus of Biodiversity Conservation and Sustainable Socioeconomic Development in Southeast Asia](https://www.akademisains.gov.my/asm-publication/nexus-of-biodiversity/) \| Academy of Sciences Malaysia \| 2022
+[The Nexus of Biodiversity Conservation and Sustainable Socioeconomic Development in Southeast Asia](https://www.akademisains.gov.my/asm-publication/nexus-of-biodiversity/) <br> *Academy of Sciences Malaysia* [2022]{.cvdate}
 
-[Position Paper on Blue Economy: Unlocking the Value of the Oceans](https://www.akademisains.gov.my/position-paper-on-blue-economy-unlocking-the-value-of-the-oceans/) \| 2022
+[Position Paper on Blue Economy: Unlocking the Value of the Oceans](https://www.akademisains.gov.my/position-paper-on-blue-economy-unlocking-the-value-of-the-oceans/) <br> *Academy of Sciences Malaysia* [2022]{.cvdate}
+
+**Book Chapter**
+
+Liew, E. J. Y., Peh, W. L., **Leong, Z. K.** (2022). Perceived Trust and Confidence for Cyptocurrency Adoption: What Lies Ahead?. In P. C. Lai (Ed), Handbook of Research on Social Impacts of E-Payment and Blockchain Technology (pp. 250 – 279). IGI Global. 
+
+## Presentations
+
+[Using ChatGPT for Academic Work](https://drive.google.com/file/d/1sI_SaKPPdakqJahGsiPu44qSTGrcEASD/view?usp=drive_link) <br> *BEX6200 Research Philosophy, Monash University* [2024]{.cvdate}
+
+
+## Trainings Attended
+
+Applied Methods of Cost-Effectiveness Analysis in Healthcare <br> *Oxford Population Health* [2022]{.cvdate}
+
+Machine Learning by Dr Andrew Ng <br> *Coursera* [2020]{.cvdate} 
+
+Data Scientist with R (Multiple Courses) <br> *DataCamp* [2017-2019]{.cvdate}
+
+## Other Awards
+
+**National Chamption** <br> *ASEAN Data Science Explorer* [2019]{.cvdate}
+
+- Built and presented a data-driven storyboard on SAP Analytics Cloud to promote food sustainability in the ASEAN region.
+-	Represented Malaysia to present the solution in regional finals in Bangkok.
+- [Slides](https://aseandse.org/uploads/asset/x8yHBFqWcI.pdf)
+- [Story](https://aseandse.org/stories/zhuan-kee-leong/)
+
+::: {.print-only}
+## References
+Available upon request
+:::
+
+
+
+
+
