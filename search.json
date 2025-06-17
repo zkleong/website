@@ -11,7 +11,7 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "zhuan.leong@monash.edu | Kuala Lumpur, Malaysia"
+    "text": "zhuan.leong@monash.edu | Kuala Lumpur, Malaysia | https://zkleong.github.io/website/"
   },
   {
     "objectID": "cv.html#education",
@@ -74,7 +74,7 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "I Finally Have a Website (Built with Quarto!)\n\n\nLessons learned, resources used, and lots of gratitude.\n\n\n\n\n\nMay 29, 2025\n\n\nZhuan Kee, Vis\n\n\n\n\n\nNo matching items"
+    "text": "I Finally Have a Website (Built with Quarto!)\n\n\nLessons learned, resources used, and lots of gratitude.\n\n\n\n\n\nMay 29, 2025\n\n\nZhuan Kee, Vis\n\n\n\n\n\n\n\n\n\n\n\n\nindex\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -82,6 +82,13 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog/data-analytics-ecosystem/index.html",
+    "href": "blog/data-analytics-ecosystem/index.html",
+    "title": "index",
+    "section": "",
+    "text": "for this blog post, i want to talk about all the data analytics ecosystem that currently works for me. the motivation for this is that, before this my work feels like everywhere, and it makes me feel somehow not conducive to work on my projects just because of how messy everything is. but after learning here, i think i now have a more seamless workflow which make project works a lot easier, and it is easier to pick up where i left off. some of these stuff that have been so important for me now are 1) quarto 2) github 3) R - building function and packages\nsome other tips and tricks that make my workflow better\nwhat i feel is missing now: 1) collaboration on projects especially with people not familiar with these tools 2) learn how to work with version control better 3) communication"
   },
   {
     "objectID": "blog/website/index.html",
