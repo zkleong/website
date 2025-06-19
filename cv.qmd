@@ -11,7 +11,7 @@ format-links: [pdf]
 ---
 
 ::: {.print-only .contact-block}
-zhuan.leong@monash.edu | Kuala Lumpur, Malaysia
+zhuan.leong@monash.edu | Melbourne, Australia | [https://zkleong.github.io/website/](https://zkleong.github.io/website/)
 :::
 
 ## Education
@@ -114,7 +114,9 @@ Data Scientist with R (Multiple Courses) <br> *DataCamp* [2017-2019]{.cvdate}
 
 ::: {.print-only}
 ## References
+
 Available upon request
+
 :::
 
 

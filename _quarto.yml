@@ -11,6 +11,7 @@ website:
         text: CV
       - href: blog/index.qmd
         text: Blog
+  google-analytics: "G-1SJD59DYT7"
     
       
 format:
