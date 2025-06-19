@@ -2,30 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://zkleong.github.io/website/projects/index.html</loc>
-    <lastmod>2025-05-22T02:01:02.145Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zkleong.github.io/website/index.html</loc>
-    <lastmod>2025-05-29T10:43:49.182Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zkleong.github.io/website/blog/website/index.html</loc>
-    <lastmod>2025-05-29T14:08:24.748Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zkleong.github.io/website/about.html</loc>
-    <lastmod>2025-05-22T02:01:02.115Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zkleong.github.io/website/blog/index.html</loc>
-    <lastmod>2025-05-29T12:29:15.045Z</lastmod>
+    <lastmod>2025-06-19T06:56:33.020Z</lastmod>
   </url>
   <url>
     <loc>https://zkleong.github.io/website/cv.html</loc>
-    <lastmod>2025-06-19T01:26:51.516Z</lastmod>
+    <lastmod>2025-06-19T06:56:33.018Z</lastmod>
   </url>
   <url>
-    <loc>https://zkleong.github.io/website/pending/data-analytics-ecosystem/index.html</loc>
-    <lastmod>2025-06-04T07:13:35.347Z</lastmod>
+    <loc>https://zkleong.github.io/website/blog/index.html</loc>
+    <lastmod>2025-06-19T06:56:33.012Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zkleong.github.io/website/about.html</loc>
+    <lastmod>2025-06-19T06:56:33.003Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zkleong.github.io/website/blog/website/index.html</loc>
+    <lastmod>2025-06-19T06:56:33.017Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zkleong.github.io/website/index.html</loc>
+    <lastmod>2025-06-19T06:56:33.018Z</lastmod>
   </url>
 </urlset>
