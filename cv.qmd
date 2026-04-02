@@ -6,12 +6,14 @@ format:
   pdf:
     author: Leong Zhuan Kee, Vis
     pdf-engine: weasyprint
+  docx:
+    author: Leong Zhuan Kee, Vis
 css: cv.css
-format-links: [pdf]
+format-links: [pdf, docx]
 ---
 
 ::: {.print-only .contact-block}
-zhuan.leong@monash.edu | Melbourne, Australia | [https://zkleong.github.io/website/](https://zkleong.github.io/website/)
+zhuan.leong@monash.edu | Subang Jaya, Malaysia | [https://zkleong.github.io/website/](https://zkleong.github.io/website/)
 :::
 
 ## Education
@@ -22,7 +24,7 @@ zhuan.leong@monash.edu | Melbourne, Australia | [https://zkleong.github.io/websi
 -   Global Excellence and Mobility Scholarship
 -   Expected submission date: February 2027
 
-Supervisors: Ewilly Liew, [Michael Lydeamore](https://www.michaellydeamore.com/), [Di Cook](https://www.dicook.org/), Poh Yeh Han, Manjeevan Singh Seera
+Supervisors: Ewilly Liew, [Michael Lydeamore](https://www.michaellydeamore.com/), [Di Cook](https://www.dicook.org/), Lee How Chinh
 
 **Bachelor of Business and Commerce (Honours)** <br> ***Monash University*** [*July 2020 --- June 2021*]{.cvdate}
 
@@ -62,10 +64,15 @@ Supervisors: Ewilly Liew, Patricia Lau
 
 **Tutor** <br> *Monash University, Malaysia*
 
+\[ETW3482\] Data Mining and Predictive Modeling [S1Y2026]{.cvdate}
+
 \[ETW3483\] Applied Analytics [S2Y2024]{.cvdate}
 
 \[ETM5950\] Data Analytics for Business [S1Y2024]{.cvdate}
 
+**Tutor** <br> *Monash University, Australia*
+
+\[ETC1000\] Business and Economic Statistics [S2Y2025]{.cvdate}
 
 **Workshops**
 
@@ -88,9 +95,15 @@ Contributed as a member of a larger team.
 
 **Book Chapter**
 
-Liew, E. J. Y., Peh, W. L., **Leong, Z. K.** (2022). Perceived Trust and Confidence for Cyptocurrency Adoption: What Lies Ahead?. In P. C. Lai (Ed), Handbook of Research on Social Impacts of E-Payment and Blockchain Technology (pp. 250 – 279). IGI Global. 
+Liew, E.J.Y., Peh, W.L., **Leong, Z.K.** (2022). Perceived Trust and Confidence for Cyptocurrency Adoption: What Lies Ahead?. In P. C. Lai (Ed), Handbook of Research on Social Impacts of E-Payment and Blockchain Technology (pp. 250 – 279). IGI Global. 
 
 ## Presentations
+
+**Leong, Z.K.**, Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M. (2025). Transforming MDR-AB surveillance into ICU safety. Presented at Alfred Health. September 2025.
+
+**Leong, Z.K.**, Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M. (2025). Data-driven pandemic resilience against drug-resistant bacterias in ICU: Transforming monitoring data into ICU safety. Presented at Doctoral Colloquium 2025, School of Business, Monash University, Australia. September 2025.
+
+**Leong, Z.K.**, Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M. (2025). Patient demographic changes during COVID-19 affect risk factors for healthcare-associated infection in ICU. Presented at Australia Statistical Conference 2025, Curtin University, Perth, Australia. December 2025.
 
 [Using ChatGPT for Academic Work](https://drive.google.com/file/d/1sI_SaKPPdakqJahGsiPu44qSTGrcEASD/view?usp=drive_link) <br> *BEX6200 Research Philosophy, Monash University* [2024]{.cvdate}
 

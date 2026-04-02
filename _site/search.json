@@ -7,46 +7,18 @@
     "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\nMachine Learning\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\nMachine Learning\n\nClustering\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\nData Visualization\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Leong Zhuan Kee, Vis",
-    "section": "",
-    "text": "I’m a PhD student in the Department of Econometrics and Business Statistics at Monash University. My research looks at multidrug-resistant organisms, using data to explore issues related to intensive care and hospital settings.\nWhat drew me to this area is the reminder that behind every data point is a real person—someone who was seriously unwell. That perspective keeps me grounded and gives purpose to the work I do.\nI’m especially interested in healthcare analytics, population health, and statistical and mathematical modeling—and I’m hoping to grow further in these areas. On the side, I’ve also been working on tools to make data cleaning more efficient, especially for messy datasets with entry errors.\nOther human interests: 🚶‍♂️🎵🎤🏔️🎮🏖️📺\nEmail: zhuan.leong@monash.edu"
-  },
-  {
-    "objectID": "blog/website/index.html",
-    "href": "blog/website/index.html",
-    "title": "I Finally Have a Website (Built with Quarto!)",
-    "section": "",
-    "text": "Overcomplicating My Website (Then Got It Done with Quarto)\nFinally, I have a working website! This has been a Hacky Hour project of mine throughout the semester. It seems easy at first—but I got a bit ambitious. I thought, “I want to design it exactly the way I want to,” and went down a whole rabbit hole… only to realise, I’m not a web developer.\nWhile I definitely learned a lot along the way, what I needed for my website could’ve been done way more easily using the templates that already exist. I wish I had known that earlier. The first few weeks were basically me messing around, trying to get Claude to design a beautiful layout for me.\nEventually, I just gave in (gratefully) and settled on the ready-made Quarto website template.\nBig shoutout to the NUMBAT team, particularly the HACKY HOUR group\nThis whole thing wouldn’t have been possible without the help from the NUMBAT team at Monash. I’m incredibly new to all this, and they’ve been so generous—helping me with all the little things I needed to get this site functioning. It would’ve been so much harder (and way more time-consuming) without them.\nStill a bit bare, but it’s a start\n\n\n\n\n\n\nHomepage\n\n\n\n\n\n\n\nCV-html\n\n\n\n\n\n\n\n\n\nCV-pdf\n\n\n\n\n\nRight now, the website still looks pretty empty, but I’ll be filling it up over time. Most of my energy so far has gone into building the CV page. Even just wrapping my head around how a Quarto website works took up a surprising amount of time. What really helped, though, was the amazing community of people who’ve put in the effort to make this process more beginner-friendly.\nHere are a few of the resources I used (aside from the wonderful humans from Hacky Hour):\n\nPosit PBC on Youtube – Their videos on building personal websites with Quarto were my main reference point and helped me get started.\nThe Quarto GitHub repository – It was super useful to see how they built their own website.\nPublishing both HTML and PDF with Quarto by Cynthia Huang – This was a game changer for building my CV page. It showed me how to create a clean HTML page and render a PDF version alongside it.\n\nFeeling excited (and just slightly overwhelmed)\nNow that the site is up, I suddenly feel like there’s so much I can do with it—so many ideas I could add, projects to showcase, things to try out. It’s exciting! Of course, time and energy are limited, so we’ll see how much I can actually get done… but I’m hopeful.\nIf you’re thinking of building your own site: go for it. Keep it simple. Don’t overthink it (like I did). Use the templates. Ask for help. It really does get better the more you chip away at it.\nAnd just like that… I think this is my first blog post on the site. Wild."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "I Finally Have a Website (Built with Quarto!)\n\n\nLessons learned, resources used, and lots of gratitude.\n\n\n\n\n\nMay 29, 2025\n\n\nZhuan Kee, Vis\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "zhuan.leong@monash.edu | Melbourne, Australia | https://zkleong.github.io/website/"
+    "text": "zhuan.leong@monash.edu | Subang Jaya, Malaysia | https://zkleong.github.io/website/"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\nDoctor of Philosophy – Econometrics and Business Statistics  Monash University August 2023 — Present\n\nThesis: Data-driven decision making in multidrug-resistant organisms (MDRO) in ICU\nGlobal Excellence and Mobility Scholarship\nExpected submission date: February 2027\n\nSupervisors: Ewilly Liew, Michael Lydeamore, Di Cook, Poh Yeh Han, Manjeevan Singh Seera\nBachelor of Business and Commerce (Honours)  Monash University July 2020 — June 2021\n\nThesis: Analyzing the buffer effect of creativity on exhaustion towards work outcomes.\nAwarded Graduate Research Pathway Scholarship (100%)\nReceived the Best Student Award\n\nSupervisors: Ewilly Liew, Patricia Lau\nBachelor of Business and Commerce | Econometrics and Business Statistics  Monash University February 2017 — December 2019\n\nAwarded the Malaysia Public Service Department Scholarship"
+    "text": "Education\nDoctor of Philosophy – Econometrics and Business Statistics  Monash University August 2023 — Present\n\nThesis: Data-driven decision making in multidrug-resistant organisms (MDRO) in ICU\nGlobal Excellence and Mobility Scholarship\nExpected submission date: February 2027\n\nSupervisors: Ewilly Liew, Michael Lydeamore, Di Cook, Lee How Chinh\nBachelor of Business and Commerce (Honours)  Monash University July 2020 — June 2021\n\nThesis: Analyzing the buffer effect of creativity on exhaustion towards work outcomes.\nAwarded Graduate Research Pathway Scholarship (100%)\nReceived the Best Student Award\n\nSupervisors: Ewilly Liew, Patricia Lau\nBachelor of Business and Commerce | Econometrics and Business Statistics  Monash University February 2017 — December 2019\n\nAwarded the Malaysia Public Service Department Scholarship"
   },
   {
     "objectID": "cv.html#work-experience",
@@ -60,21 +32,21 @@
     "href": "cv.html#teaching",
     "title": "Curriculum Vitae",
     "section": "Teaching",
-    "text": "Teaching\nTutor  Monash University, Malaysia\n[ETW3483] Applied Analytics S2Y2024\n[ETM5950] Data Analytics for Business S1Y2024\nWorkshops\nData Analysis with R 2021 - 2022\nIntroduction to Time Series Forecasting 2021 - 2022"
+    "text": "Teaching\nTutor  Monash University, Malaysia\n[ETW3482] Data Mining and Predictive Modeling S1Y2026\n[ETW3483] Applied Analytics S2Y2024\n[ETM5950] Data Analytics for Business S1Y2024\nTutor  Monash University, Australia\n[ETC1000] Business and Economic Statistics S2Y2025\nWorkshops\nData Analysis with R 2021 - 2022\nIntroduction to Time Series Forecasting 2021 - 2022"
   },
   {
     "objectID": "cv.html#publications",
     "href": "cv.html#publications",
     "title": "Curriculum Vitae",
     "section": "Publications",
-    "text": "Publications\nReport\nContributed as a member of a larger team.\nWater as Economic Sector | Water Sector Transformation 2040  Academy of Sciences Malaysia 2022\nThe Nexus of Biodiversity Conservation and Sustainable Socioeconomic Development in Southeast Asia  Academy of Sciences Malaysia 2022\nPosition Paper on Blue Economy: Unlocking the Value of the Oceans  Academy of Sciences Malaysia 2022\nBook Chapter\nLiew, E. J. Y., Peh, W. L., Leong, Z. K. (2022). Perceived Trust and Confidence for Cyptocurrency Adoption: What Lies Ahead?. In P. C. Lai (Ed), Handbook of Research on Social Impacts of E-Payment and Blockchain Technology (pp. 250 – 279). IGI Global."
+    "text": "Publications\nReport\nContributed as a member of a larger team.\nWater as Economic Sector | Water Sector Transformation 2040  Academy of Sciences Malaysia 2022\nThe Nexus of Biodiversity Conservation and Sustainable Socioeconomic Development in Southeast Asia  Academy of Sciences Malaysia 2022\nPosition Paper on Blue Economy: Unlocking the Value of the Oceans  Academy of Sciences Malaysia 2022\nBook Chapter\nLiew, E.J.Y., Peh, W.L., Leong, Z.K. (2022). Perceived Trust and Confidence for Cyptocurrency Adoption: What Lies Ahead?. In P. C. Lai (Ed), Handbook of Research on Social Impacts of E-Payment and Blockchain Technology (pp. 250 – 279). IGI Global."
   },
   {
     "objectID": "cv.html#presentations",
     "href": "cv.html#presentations",
     "title": "Curriculum Vitae",
     "section": "Presentations",
-    "text": "Presentations\nUsing ChatGPT for Academic Work  BEX6200 Research Philosophy, Monash University 2024"
+    "text": "Presentations\nLeong, Z.K., Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M. (2025). Transforming MDR-AB surveillance into ICU safety. Presented at Alfred Health. September 2025.\nLeong, Z.K., Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M. (2025). Data-driven pandemic resilience against drug-resistant bacterias in ICU: Transforming monitoring data into ICU safety. Presented at Doctoral Colloquium 2025, School of Business, Monash University, Australia. September 2025.\nLeong, Z.K., Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M. (2025). Patient demographic changes during COVID-19 affect risk factors for healthcare-associated infection in ICU. Presented at Australia Statistical Conference 2025, Curtin University, Perth, Australia. December 2025.\nUsing ChatGPT for Academic Work  BEX6200 Research Philosophy, Monash University 2024"
   },
   {
     "objectID": "cv.html#trainings-attended",
@@ -98,10 +70,31 @@
     "text": "References\nAvailable upon request"
   },
   {
-    "objectID": "pending/data-analytics-ecosystem/index.html",
-    "href": "pending/data-analytics-ecosystem/index.html",
-    "title": "index",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
     "section": "",
-    "text": "for this blog post, i want to talk about all the data analytics ecosystem that currently works for me. the motivation for this is that, before this my work feels like everywhere, and it makes me feel somehow not conducive to work on my projects just because of how messy everything is. but after learning here, i think i now have a more seamless workflow which make project works a lot easier, and it is easier to pick up where i left off. some of these stuff that have been so important for me now are 1) quarto 2) github 3) R - building function and packages\nsome other tips and tricks that make my workflow better\nwhat i feel is missing now: 1) collaboration on projects especially with people not familiar with these tools 2) learn how to work with version control better 3) communication"
+    "text": "I Finally Have a Website (Built with Quarto!)\n\n\nLessons learned, resources used, and lots of gratitude.\n\n\n\n\n\nMay 29, 2025\n\n\nZhuan Kee, Vis\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog/website/index.html",
+    "href": "blog/website/index.html",
+    "title": "I Finally Have a Website (Built with Quarto!)",
+    "section": "",
+    "text": "Overcomplicating My Website (Then Got It Done with Quarto)\nFinally, I have a working website! This has been a Hacky Hour project of mine throughout the semester. It seems easy at first—but I got a bit ambitious. I thought, “I want to design it exactly the way I want to,” and went down a whole rabbit hole… only to realise, I’m not a web developer.\nWhile I definitely learned a lot along the way, what I needed for my website could’ve been done way more easily using the templates that already exist. I wish I had known that earlier. The first few weeks were basically me messing around, trying to get Claude to design a beautiful layout for me.\nEventually, I just gave in (gratefully) and settled on the ready-made Quarto website template.\nBig shoutout to the NUMBAT team, particularly the HACKY HOUR group\nThis whole thing wouldn’t have been possible without the help from the NUMBAT team at Monash. I’m incredibly new to all this, and they’ve been so generous—helping me with all the little things I needed to get this site functioning. It would’ve been so much harder (and way more time-consuming) without them.\nStill a bit bare, but it’s a start\n\n\n\n\n\n\nHomepage\n\n\n\n\n\n\n\nCV-html\n\n\n\n\n\n\n\n\n\nCV-pdf\n\n\n\n\n\nRight now, the website still looks pretty empty, but I’ll be filling it up over time. Most of my energy so far has gone into building the CV page. Even just wrapping my head around how a Quarto website works took up a surprising amount of time. What really helped, though, was the amazing community of people who’ve put in the effort to make this process more beginner-friendly.\nHere are a few of the resources I used (aside from the wonderful humans from Hacky Hour):\n\nPosit PBC on Youtube – Their videos on building personal websites with Quarto were my main reference point and helped me get started.\nThe Quarto GitHub repository – It was super useful to see how they built their own website.\nPublishing both HTML and PDF with Quarto by Cynthia Huang – This was a game changer for building my CV page. It showed me how to create a clean HTML page and render a PDF version alongside it.\n\nFeeling excited (and just slightly overwhelmed)\nNow that the site is up, I suddenly feel like there’s so much I can do with it—so many ideas I could add, projects to showcase, things to try out. It’s exciting! Of course, time and energy are limited, so we’ll see how much I can actually get done… but I’m hopeful.\nIf you’re thinking of building your own site: go for it. Keep it simple. Don’t overthink it (like I did). Use the templates. Ask for help. It really does get better the more you chip away at it.\nAnd just like that… I think this is my first blog post on the site. Wild."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Leong Zhuan Kee, Vis",
+    "section": "",
+    "text": "I’m a PhD student in the Department of Econometrics and Business Statistics at Monash University. My research looks at multidrug-resistant organisms, using data to explore issues related to intensive care and hospital settings.\nWhat drew me to this area is the reminder that behind every data point is a real person—someone who was seriously unwell. That perspective keeps me grounded and gives purpose to the work I do.\nI’m especially interested in healthcare analytics, population health, and statistical and mathematical modeling—and I’m hoping to grow further in these areas. On the side, I’ve also been working on tools to make data cleaning more efficient, especially for messy datasets with entry errors.\nOther human interests: 🚶‍♂️🎵🎤🏔️🎮🏖️📺\nEmail: zhuan.leong@monash.edu"
   }
 ]
