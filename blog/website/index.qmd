@@ -24,7 +24,7 @@ This whole thing wouldn’t have been possible without the help from the [NUMBAT
 
 **Still a bit bare, but it’s a start**
 
-::: {layout="[1, 1], [1]"}
+::: {layout="[[1, 1], [1]]"}
 ![Homepage](website-homepage.png)
 
 ![CV-html](website-cv.png)
