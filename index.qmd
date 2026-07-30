@@ -1,6 +1,6 @@
 ---
 title: "Leong Zhuan Kee, Vis"
-subtitle: "PhD Candidate"
+subtitle: "PhD Candidate in Econometrics & Business Statistics, Monash University"
 description: "PhD candidate in Econometrics and Business Statistics at Monash University, researching multidrug-resistant organisms and healthcare analytics."
 image: images/profile.jpg
 about: # https://quarto.org/docs/websites/website-about.html

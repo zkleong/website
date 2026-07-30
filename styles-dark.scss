@@ -1,33 +1,33 @@
 /*-- scss:defaults --*/
 
-// Sass Variables
-// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
-
-/* Fonts — Lora for headings, Source Sans 3 for body */
+/* Fonts — same pairing as light theme */
 $web-font-path: "https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Source+Sans+3:ital,wght@0,300..700;1,300..700&display=swap";
 $font-family-sans-serif: "Source Sans 3", "Source Sans Pro", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $headings-font-family: "Lora", Georgia, "Times New Roman", serif;
 $font-size-root: 17px;
 
-/* Colors */
-$primary: #0F766E;
-$body-bg: #FFFFFF;
-$body-color: rgb(55, 58, 60);
-$link-color: $primary;
+/* Colors — teal lightened for contrast on dark background */
+$primary: #2FB8AA;
+$body-bg: #12181C;
+$body-color: #D3DAE0;
+$headings-color: #E9EEF2;
+$link-color: #4CC8BB;
+$code-color: #7FDBD0;
+$code-bg: #1B2329;
 
-/* Navbar — white with accent text */
-$navbar-bg: #FFFFFF;
-$navbar-fg: rgb(55, 58, 60);
-$navbar-hl: $primary;
+/* Navbar */
+$navbar-bg: #12181C;
+$navbar-fg: #D3DAE0;
+$navbar-hl: #4CC8BB;
 
 /* Footer */
-$footer-bg: #FFFFFF;
-$footer-fg: rgb(95, 99, 102);
+$footer-bg: #12181C;
+$footer-fg: #8A949C;
 
 /*-- scss:rules --*/
 
 .navbar {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .navbar-brand {
@@ -45,9 +45,9 @@ h1, h2, .title {
 }
 
 .subtitle {
-  color: rgb(95, 99, 102);
+  color: #9AA4AC;
 }
 
 .nav-footer {
-  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
 }

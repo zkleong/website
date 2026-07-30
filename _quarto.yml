@@ -5,18 +5,31 @@ website:
   title: "Leong Zhuan Kee, Vis"
   site-url: https://zkleong.github.io/website/
   description: "Personal website of Leong Zhuan Kee (Vis), PhD candidate in Econometrics and Business Statistics at Monash University, working on healthcare analytics and multidrug-resistant organisms."
+  favicon: images/logo.svg
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
-  page-footer: "Made with ❤️ and Quarto"
+  page-footer:
+    left: "© 2026 ZK Leong (Vis)"
+    right:
+      - icon: github
+        href: https://github.com/zkleong
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/zkleong/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:zhuan.leong@monash.edu
+        aria-label: Email
   navbar:
+    logo: images/logo.svg
     left:
       - href: cv.qmd
         text: CV
       - href: blog/index.qmd
         text: Blog
   google-analytics: "G-1SJD59DYT7"
-    
-      
+
 format:
   html:
-    theme: [cosmo, styles.scss]
-
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [cosmo, styles-dark.scss]
