@@ -19,6 +19,12 @@ website:
       - icon: envelope
         href: mailto:zhuan.leong@monash.edu
         aria-label: Email
+      - text: ORCID
+        href: https://orcid.org/0009-0002-0245-8288
+        aria-label: ORCID iD
+      - icon: rss
+        href: blog/index.xml
+        aria-label: Blog RSS feed
   navbar:
     logo: images/logo.svg
     left:
