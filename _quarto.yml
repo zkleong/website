@@ -4,7 +4,7 @@ project:
 website:
   title: "Leong Zhuan Kee, Vis"
   site-url: https://zkleong.github.io/website/
-  description: "Personal website of Leong Zhuan Kee (Vis), PhD candidate in Econometrics and Business Statistics at Monash University, working on healthcare analytics and multidrug-resistant organisms."
+  description: "Personal website of Leong Zhuan Kee (Vis), PhD candidate in Econometrics and Business Statistics at Monash University, modeling how drug-resistant infections spread through intensive care units."
   favicon: images/logo.svg
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   page-footer:

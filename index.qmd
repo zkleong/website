@@ -1,7 +1,7 @@
 ---
 title: "Leong Zhuan Kee, Vis"
 subtitle: "PhD Candidate in Econometrics & Business Statistics, Monash University"
-description: "PhD candidate in Econometrics and Business Statistics at Monash University, researching multidrug-resistant organisms and healthcare analytics."
+description: "Modeling how drug-resistant infections spread through intensive care units."
 image: images/profile.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: trestles
@@ -15,12 +15,14 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://www.linkedin.com/in/zkleong/
 ---
 
-I’m a PhD student in the Department of Econometrics and Business Statistics at Monash University. My research looks at multidrug-resistant organisms, using data to explore issues related to intensive care and hospital settings.
+I’m a PhD candidate in the Department of Econometrics and Business Statistics at Monash University. I build statistical and mathematical models of how multidrug-resistant organisms spread through intensive care units, and of the risk factors behind hospital-acquired infections.
 
-What drew me to this area is the reminder that behind every data point is a real person—someone who was seriously unwell. That perspective keeps me grounded and gives purpose to the work I do. 
+What drew me to this area is the reminder that behind every data point is a real person—someone who was seriously unwell. That perspective keeps me grounded and gives purpose to the work I do.
 
-I'm especially interested in healthcare analytics, population health, and statistical and mathematical modeling—and I’m hoping to grow further in these areas. On the side, I’ve also been working on tools to make data cleaning more efficient, especially for messy datasets with entry errors.
+Before the PhD I spent two years as a research analyst at Sunway University’s Institute for Global Strategy and Competitiveness, doing forecasting and trend analysis for national policy work and running data analytics workshops for teams inside and outside the university. I’ve kept up the teaching side of things, tutoring statistics and analytics units at Monash in both Malaysia and Australia.
 
-Other human interests: 🚶‍♂️🎵🎤🏔️🎮🏖️📺
+I’m especially interested in computational epidemiology, infectious diseases modeling, population health, and health economics—and I’m hoping to grow further in these areas. The part I enjoy most is inference: working out what the data can and can’t tell us about how an infection actually moved through a ward, and how much of that conclusion we can believe. That’s what makes the work satisfying to me—it’s the difference between describing a problem and being able to make a decision with evidence behind it.
+
+Other human interests: long walks 🚶‍♂️, the gym 🏋️, karaoke 🎤, gaming 🎮, the beach 🏖️, being out in nature 🏔️, and TV shows 📺—or, when the week has been enough, simply resting.
 
 Email: zhuan.leong@monash.edu
