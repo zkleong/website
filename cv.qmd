@@ -13,7 +13,7 @@ format-links: [pdf, docx]
 ---
 
 ::: {.print-only .contact-block}
-zhuan.leong@monash.edu | Subang Jaya, Malaysia | [https://zkleong.github.io/website/](https://zkleong.github.io/website/)
+zhuan.leong@monash.edu | Subang Jaya, Malaysia | [https://zkleong.github.io/](https://zkleong.github.io/)
 :::
 
 ## Education
