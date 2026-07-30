@@ -87,9 +87,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -146,14 +146,14 @@ window.Quarto = {
 };
 </script>
 
-<meta property="og:title" content="Blog – Leong Zhuan Kee, Vis">
+<link rel="alternate" type="application/rss+xml" title="Leong Zhuan Kee, Vis" href="index.xml" data-external="1"><meta property="og:title" content="Blog – Leong Zhuan Kee, Vis">
 <meta property="og:image" content="https://zkleong.github.io/website/blog/website/website-homepage.png">
 <meta property="og:site_name" content="Leong Zhuan Kee, Vis">
 <meta property="og:image:height" content="917">
 <meta property="og:image:width" content="1908">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -356,7 +356,9 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QXBwcmVjaWF0aW9u">Appreciation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UXVhcnRv">Quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="V2Vic2l0ZQ==">Website <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -396,6 +398,15 @@ window.Quarto = {
 <h3 class="no-anchor listing-title">
 <a href="../blog/website/index.html" class="no-external">I Finally Have a Website (Built with Quarto!)</a>
 </h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('V2Vic2l0ZQ=='); return false;">Website</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UXVhcnRv'); return false;">Quarto</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('QXBwcmVjaWF0aW9u'); return false;">Appreciation</div>
+
+</div>
 <div class="delink listing-description"><a href="../blog/website/index.html" class="no-external">
 <p>Lessons learned, resources used, and lots of gratitude.</p>
 </a></div>
@@ -853,6 +864,17 @@ Zhuan Kee, Vis
     <li class="nav-item compact">
     <a class="nav-link" href="mailto:zhuan.leong@monash.edu">
       <i class="bi bi-envelope" role="img" aria-label="Email">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://orcid.org/0009-0002-0245-8288">
+<p>ORCID</p>
+</a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="../blog/index.xml">
+      <i class="bi bi-rss" role="img" aria-label="Blog RSS feed">
 </i> 
     </a>
   </li>  

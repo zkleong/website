@@ -5,7 +5,8 @@
 
 .cvdate {
   float: right;
-  font-style: italic
+  font-style: italic;
+  margin-left: 1em;
 }
 
 .print-only {
@@ -24,6 +25,7 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
 @media print {
   @page {
       size: a4 portrait;
+      margin: 16mm 18mm 18mm 18mm;
       counter-increment: page;
       @bottom-center {
         content: counter(page)
@@ -38,15 +40,17 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
 
   .contact-block {
       margin-top: 0%;
+      margin-bottom: 1.5em;
       text-align: center;
   }
 
   html {
     font-family: 'Public Sans', sans-serif;
+    line-height: 1.5;
   }
 
   header {
-    margin-block-end: 5em;
+    margin-block-end: 0.5em;
   }
   header h1.title {
       display: none;
@@ -63,6 +67,8 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
   h2 {
     font-weight: 900;
     text-transform: uppercase;
+    margin: 1em 0 0.4em;
+    page-break-after: avoid;
     /* color: blueviolet; */
   }
 
@@ -74,10 +80,21 @@ from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncommen
 
   p {
     font-size: small;
+    margin: 0.5em 0;
+    clear: both;
+    page-break-inside: avoid;
+  }
+
+  ul {
+    clear: both;
+    margin: 0.3em 0 0.9em;
+    padding-left: 1.4em;
   }
 
   ul li{
     font-size: smaller;
+    margin-bottom: 0.2em;
+    page-break-inside: avoid;
   }
 
   a {
