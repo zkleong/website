@@ -46,13 +46,13 @@ Supervisors: Ewilly Liew, Patricia Lau
 - Conducted quantitative data analysis to support national policy development, including forecasting and trend analysis on key economic and strategic indicators.
 - Led knowledge-sharing sessions and conducted workshops for internal teams and external stakeholders, focusing on practical applications of data analytics tools and methods.
 
-**Research Asisstant** <br> ***School of Business | Monash University Malaysia*** [April 2020 - December 2021]{.cvdate}
+**Research Assistant** <br> ***School of Business | Monash University Malaysia*** [April 2020 - December 2021]{.cvdate}
 
 - Supported the design and deployment of online survey instruments using Qualtrics, including testing, distribution, and management of respondent incentives.
 - Assisted in literature reviews, data collection, and database preparation for ongoing research projects.
 - Performed preliminary quantitative analysis to support academic publications and research outputs.
 
-**Analytics and Strategy Intern** <br> ***E-Commerce Division | Maxis Berhad*** [December 2018 - February 2019]
+**Analytics and Strategy Intern** <br> ***E-Commerce Division | Maxis Berhad*** [December 2018 - February 2019]{.cvdate}
 
 - Developed interactive dashboards using Google Data Studio to visualize key performance metrics for eCommerce clients.
 - Supported monthly reporting and contributed to client presentations by providing data-driven insights and performance trends.
@@ -95,13 +95,13 @@ Contributed as a member of a larger team.
 
 **Book Chapter**
 
-Liew, E.J.Y., Peh, W.L., **Leong, Z.K.** (2022). Perceived Trust and Confidence for Cyptocurrency Adoption: What Lies Ahead?. In P. C. Lai (Ed), Handbook of Research on Social Impacts of E-Payment and Blockchain Technology (pp. 250 – 279). IGI Global. 
+Liew, E.J.Y., Peh, W.L., **Leong, Z.K.** (2022). Perceived Trust and Confidence for Cryptocurrency Adoption: What Lies Ahead?. In P. C. Lai (Ed), Handbook of Research on Social Impacts of E-Payment and Blockchain Technology (pp. 250 – 279). IGI Global. 
 
 ## Presentations
 
 **Leong, Z.K.**, Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M. (2025). Transforming MDR-AB surveillance into ICU safety. Presented at Alfred Health. September 2025.
 
-**Leong, Z.K.**, Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M. (2025). Data-driven pandemic resilience against drug-resistant bacterias in ICU: Transforming monitoring data into ICU safety. Presented at Doctoral Colloquium 2025, School of Business, Monash University, Australia. September 2025.
+**Leong, Z.K.**, Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M. (2025). Data-driven pandemic resilience against drug-resistant bacteria in ICU: Transforming monitoring data into ICU safety. Presented at Doctoral Colloquium 2025, School of Business, Monash University, Australia. September 2025.
 
 **Leong, Z.K.**, Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M. (2025). Patient demographic changes during COVID-19 affect risk factors for healthcare-associated infection in ICU. Presented at Australia Statistical Conference 2025, Curtin University, Perth, Australia. December 2025.
 
@@ -109,6 +109,8 @@ Liew, E.J.Y., Peh, W.L., **Leong, Z.K.** (2022). Perceived Trust and Confidence 
 
 
 ## Trainings Attended
+
+MIDSEA Summer School 2026 (Inference track) <br> *UNIMAS and MIDSEA* [2026]{.cvdate}
 
 Applied Methods of Cost-Effectiveness Analysis in Healthcare <br> *Oxford Population Health* [2022]{.cvdate}
 
@@ -118,7 +120,13 @@ Data Scientist with R (Multiple Courses) <br> *DataCamp* [2017-2019]{.cvdate}
 
 ## Other Awards
 
-**National Chamption** <br> *ASEAN Data Science Explorer* [2019]{.cvdate}
+**First Place** <br> *Pathogen Panic AMR Case Competition by Monash Centre to Impact AMR* [2026]{.cvdate}
+
+- Designed an evidence-based outbreak response strategy for a novel pathogen 
+- Presented via video pitch. 
+- Awarded against international field.
+
+**National Champion** <br> *ASEAN Data Science Explorer* [2019]{.cvdate}
 
 - Built and presented a data-driven storyboard on SAP Analytics Cloud to promote food sustainability in the ASEAN region.
 -	Represented Malaysia to present the solution in regional finals in Bangkok.
